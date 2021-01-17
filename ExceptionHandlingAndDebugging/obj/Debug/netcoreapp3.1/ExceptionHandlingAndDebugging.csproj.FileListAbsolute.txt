@@ -1,0 +1,13 @@
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\bin\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.exe
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\bin\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.deps.json
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\bin\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.runtimeconfig.json
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\bin\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.runtimeconfig.dev.json
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\bin\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.dll
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\bin\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.pdb
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\obj\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.csprojAssemblyReference.cache
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\obj\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.AssemblyInfoInputs.cache
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\obj\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.AssemblyInfo.cs
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\obj\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.csproj.CoreCompileInputs.cache
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\obj\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.dll
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\obj\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.pdb
+C:\Users\zanyg\Documents\codefellows\401\ExceptionHandlingAndDebugging\obj\Debug\netcoreapp3.1\ExceptionHandlingAndDebugging.genruntimeconfig.cache
